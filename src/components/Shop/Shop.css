@@ -1,0 +1,23 @@
+.main{
+    margin: 20px;
+    padding: 10px;
+   
+}
+
+.intro{
+    margin: 20px;
+    padding: 10px;
+    width: 75%;
+}
+
+.category{
+    color: blue;
+}
+
+.top{
+    display: flex;
+}
+
+.cart{
+    margin-top: 50px;
+}
